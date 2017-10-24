@@ -1,0 +1,44 @@
+
+/*Nigel Finley's custom CSS Code 1-17-17*/
+
+
+.nigelimage {
+    border: 5px solid white;
+
+}
+
+.tagline {
+    color: white;
+    margin-top: 25px;
+}
+
+.nameHeader {
+    font-size: 2em;
+}
+
+.primary-banner h1 {
+    margin-bottom: 0px;
+    margin-top: -75px;
+}
+.top-menu .navbar nav ul li a {
+    color: #3344CC !important;
+}
+
+.technologies {
+    width: 125px;
+    height: 125px;
+    /*padding-bottom: 30px;*/
+}
+
+.footerlogo {
+    height: 30px;
+
+}
+
+.corp {
+    padding: 0;
+}
+.mongodb{
+    /*height: 42px;*/
+    width: 175px;
+}

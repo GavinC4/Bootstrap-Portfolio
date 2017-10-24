@@ -1,2 +1,2 @@
-# Basic-Portfolio
-basic portfolio homework
+# GC-Portfolio
+Gavin Clay's profile page
