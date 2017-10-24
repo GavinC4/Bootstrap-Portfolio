@@ -7,13 +7,13 @@ a,
 a.default-hovered:active,
 a.default-hovered.default-active,
 a.default-hovered.active {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 13, ../sass/variables-theme-color.scss */
 a.default-hovered:hover,
 a.default-hovered.default-hover {
-  color: #3344CC;
+  color: #CD7F32;
   opacity: 0.9;
 }
 
@@ -21,7 +21,7 @@ a.default-hovered.default-hover {
 a.default-hovered:active:after,
 a.default-hovered.default-active:after,
 a.default-hovered.active:after {
-  background: #3344CC;
+  background: #CD7F32;
 }
 
 /* Header Menu
@@ -34,12 +34,12 @@ a.default-hovered.active:after {
 
 /* line 28, ../sass/variables-theme-color.scss */
 a.default-hovered:after {
-  background: #3344CC;
+  background: #CD7F32;
 }
 
 /* line 31, ../sass/variables-theme-color.scss */
 a.default-hovered:hover:after, a.default-hovered.default-hover:after {
-  background: #3344CC;
+  background: #CD7F32;
   opacity: 0.8;
 }
 
@@ -47,75 +47,75 @@ a.default-hovered:hover:after, a.default-hovered.default-hover:after {
 .header.top-menu.minimized-menu .primary .navbar .btn-navbar .text,
 .header.top-menu.transform-menu .primary .navbar .btn-navbar .text,
 .header.minimized-menu .primary .navbar .btn-navbar .text {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 42, ../sass/variables-theme-color.scss */
 .header.top-menu.minimized-menu .primary .navbar .btn-navbar .icon-bar,
 .header.top-menu.transform-menu .primary .navbar .btn-navbar .icon-bar,
 .header.minimized-menu .primary .navbar .btn-navbar .icon-bar {
-  background-color: #3344CC;
+  background-color: #CD7F32;
 }
 
 /* line 47, ../sass/variables-theme-color.scss */
 .header.top-menu.minimized-menu .primary .navbar .btn-navbar,
 .header.top-menu.transform-menu .primary .navbar .btn-navbar,
 .header.minimized-menu .primary .navbar .btn-navbar {
-  border-color: #3344CC;
+  border-color: #CD7F32;
 }
 /* line 49, ../sass/variables-theme-color.scss */
 .header.top-menu.minimized-menu .primary .navbar .btn-navbar.opened,
 .header.top-menu.transform-menu .primary .navbar .btn-navbar.opened,
 .header.minimized-menu .primary .navbar .btn-navbar.opened {
-  background: #3344CC;
+  background: #CD7F32;
 }
 
 @media (max-width: 767px) {
   /* line 53, ../sass/variables-theme-color.scss */
   .menu-sidebar .widget-box > div ul li a, .menu-sidebar .widget-box > div ul li i {
-    color: #3344CC !important;
+    color: #CD7F32 !important;
   }
 }
 
 /* line 58, ../sass/variables-theme-color.scss */
 a.default-hovered:focus:after {
-  background: #3344CC;
+  background: #CD7F32;
 }
 
 /* line 62, ../sass/variables-theme-color.scss */
 .top-menu .widget-box > div ul li a,
 .top-menu .widget-box > div ul li i {
-  color: #3344CC !important;
+  color: #CD7F32 !important;
 }
 
 /* line 65, ../sass/variables-theme-color.scss */
 input[type="text"], input[type="email"], input[type="password"], input[type="name"] {
-  border: 1px solid #3344CC;
+  border: 1px solid #CD7F32;
 }
 
 /* line 68, ../sass/variables-theme-color.scss */
 .form-control:focus {
-  border: 1px solid #3344CC;
+  border: 1px solid #CD7F32;
 }
 
 /* line 72, ../sass/variables-theme-color.scss */
 ::-webkit-input-placeholder {
-  color: #3344CC !important;
+  color: #CD7F32 !important;
 }
 
 /* line 75, ../sass/variables-theme-color.scss */
 :-moz-placeholder {
-  color: #3344CC !important;
+  color: #CD7F32 !important;
 }
 
 /* line 78, ../sass/variables-theme-color.scss */
 ::-moz-placeholder {
-  color: #3344CC !important;
+  color: #CD7F32 !important;
 }
 
 /* line 81, ../sass/variables-theme-color.scss */
 :-ms-input-placeholder {
-  color: #3344CC !important;
+  color: #CD7F32 !important;
 }
 
 /* line 84, ../sass/variables-theme-color.scss */
@@ -141,7 +141,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="nam
 /* line 99, ../sass/variables-theme-color.scss */
 .top-menu .navbar nav ul li a,
 .top-menu .navbar nav ul li a i {
-  color: #3344CC !important;
+  color: #CD7F32 !important;
 }
 
 /* line 103, ../sass/variables-theme-color.scss */
@@ -172,7 +172,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="nam
 ----------------------------------------------------------------------------------*/
 /* line 125, ../sass/variables-theme-color.scss */
 .logo-mini svg * {
-  fill: #3344CC!important;
+  fill: #CD7F32!important;
 }
 
 /*Primary
@@ -200,7 +200,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="nam
 /* line 148, ../sass/variables-theme-color.scss */
 #about-us .table-block h1,
 #about-us h5 {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /*fan-facts
@@ -208,20 +208,20 @@ input[type="text"], input[type="email"], input[type="password"], input[type="nam
 /* line 155, ../sass/variables-theme-color.scss */
 .fan-facts .timer-box .timer,
 .fan-facts .timer-box p i {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* portfolio
 ------------------------------------------------------------------------------------*/
 /* line 161, ../sass/variables-theme-color.scss */
 .portfolio .isotop-filters {
-  background: #3344CC;
+  background: #CD7F32;
   opacity: 0.95;
 }
 
 /* line 165, ../sass/variables-theme-color.scss */
 .sliders .container-fluid .a-slider-tcontrols {
-  background: #3344CC;
+  background: #CD7F32;
 }
 
 /* line 168, ../sass/variables-theme-color.scss */
@@ -232,7 +232,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="nam
 /* line 172, ../sass/variables-theme-color.scss */
 .sliders .container-fluid .additional-info .heading,
 .sliders .container-fluid .album-sliders-container h4.album-name {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 178, ../sass/variables-theme-color.scss */
@@ -250,12 +250,12 @@ input[type="text"], input[type="email"], input[type="password"], input[type="nam
 
 /* line 186, ../sass/variables-theme-color.scss */
 .sliders .container-fluid .additional-info .link a {
-  background: #3344CC;
+  background: #CD7F32;
 }
 
 /* line 189, ../sass/variables-theme-color.scss */
 .sliders .container-fluid .additional-info .link a:hover {
-  background: #3344CC;
+  background: #CD7F32;
   opacity: 0.9;
 }
 
@@ -268,23 +268,23 @@ input[type="text"], input[type="email"], input[type="password"], input[type="nam
 ------------------------------------------------------------------------------------*/
 /* line 200, ../sass/variables-theme-color.scss */
 a:hover, a:active, a:focus {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 203, ../sass/variables-theme-color.scss */
 .red-color {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 206, ../sass/variables-theme-color.scss */
 .services h3:after {
-  background: #3344CC;
+  background: #CD7F32;
 }
 
 /* line 210, ../sass/variables-theme-color.scss */
 .like-theme .purcase-now a .icon-box:before,
 .like-theme .purcase-now a .icon-box:after {
-  background: #3344CC;
+  background: #CD7F32;
 }
 
 /*Price
@@ -296,12 +296,12 @@ a:hover, a:active, a:focus {
 
 /* line 218, ../sass/variables-theme-color.scss */
 .pricing-box .price-icon {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 221, ../sass/variables-theme-color.scss */
 .pricing-box a.btn-default {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 224, ../sass/variables-theme-color.scss */
@@ -313,7 +313,7 @@ a:hover, a:active, a:focus {
 ------------------------------------------------------------------------------------*/
 /* line 229, ../sass/variables-theme-color.scss */
 .btn-default.red-style {
-  background-color: #3344CC;
+  background-color: #CD7F32;
 }
 
 /* line 232, ../sass/variables-theme-color.scss */
@@ -324,7 +324,7 @@ a:hover, a:active, a:focus {
 /* line 236, ../sass/variables-theme-color.scss */
 .sliders .rslides_tabs li.rslides_here a:after,
 .sliders .rslides_tabs li:hover a:after {
-  background-color: #3344CC;
+  background-color: #CD7F32;
 }
 
 /* line 239, ../sass/variables-theme-color.scss */
@@ -335,24 +335,24 @@ a:hover, a:active, a:focus {
 /* line 243, ../sass/variables-theme-color.scss */
 .sliders .rslides_tabs li.rslides_here a:before,
 .sliders .rslides_tabs li:hover a:before {
-  border: 1px solid #3344CC;
+  border: 1px solid #CD7F32;
 }
 
 /*Faq
 ------------------------------------------------------------------------------------*/
 /* line 248, ../sass/variables-theme-color.scss */
 .faq .tab-content h5, .faq .tab-content h6 {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 251, ../sass/variables-theme-color.scss */
 .faq .tab-content h5, .faq .tab-content h6 {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /* line 254, ../sass/variables-theme-color.scss */
 .faq h1 {
-  color: #3344CC;
+  color: #CD7F32;
 }
 
 /*sample-2
@@ -388,11 +388,11 @@ a:hover, a:active, a:focus {
 ------------------------------------------------------------------------------------*/
 /* line 294, ../sass/variables-theme-color.scss */
 .sample-3 span {
-  color: #3344CC;
+  color: #CD7F32;
 }
 /* line 297, ../sass/variables-theme-color.scss */
 .sample-3 .btn-default.red-style {
-  background: #3344CC;
+  background: #CD7F32;
 }
 /* line 300, ../sass/variables-theme-color.scss */
 .sample-3 .btn-default.red-style:hover, .sample-3 .btn-default.red-style.button-hover {
